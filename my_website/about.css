@@ -1,5 +1,13 @@
 body{
-    font-family: "Penultimate", cursive;
-    color: #ffffff;
-    background-color: black;
+    font-family: "Lucinda Bright", serif;
+    color: white;
+   background: url(images/skyscrapers.gif) no-repeat center center fixed; 
+-webkit-background-size: cover; 
+-moz-background-size: cover; 
+-o-background-size: cover; 
+background-size: cover;
+}
+h1{
+    font-family:"Brush Script MT", script;
+    font-size: 80px;
 }

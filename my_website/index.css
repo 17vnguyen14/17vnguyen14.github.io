@@ -1,8 +1,13 @@
 body{
     text-align: center;
-    font-family: "Lucia Console", monospace;
+    font-family: "Brush Script MT", script;
     color: #ffffff;
-    background-color: black;
+       background: url(images/city.gif) no-repeat center center fixed; 
+-webkit-background-size: cover; 
+-moz-background-size: cover; 
+-o-background-size: cover; 
+background-size: cover;
+    font-size:30px;
 }
 h1{ 
     text-align:center;
