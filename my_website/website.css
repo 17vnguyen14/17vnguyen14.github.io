@@ -1,0 +1,39 @@
+body{
+    text-align: left;
+    font-family: "Lucinda Bright", serif;
+    color: #ffffff;
+       background: url(images/city.gif) no-repeat center center fixed; 
+-webkit-background-size: cover; 
+-moz-background-size: cover; 
+-o-background-size: cover; 
+background-size: cover;
+    font-size:30px;
+}
+h1{ 
+    text-align:center;
+    font-family:"Brush Script MT", script;
+    font-size: 90px;
+}
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul.navbar li {float: left;}
+
+ul.navbar li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+ul.navbar li a:hover {background-color: #555;}
+
+ul.navbar li.icon {display: none;}
